@@ -1,3 +1,2 @@
-Access the blog here [Learn Next.js](https://blog-broxdeez.vercel.app/).
+Access the blog here [link](https://blog-broxdeez.vercel.app/).
 
-https://blog-broxdeez.vercel.app/
